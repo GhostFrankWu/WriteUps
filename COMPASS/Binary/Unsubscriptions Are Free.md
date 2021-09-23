@@ -59,7 +59,6 @@ int main(){
 # PWN!
 注销用户释放user -> 用leaveMessage向原先属于(user->whatToDo)的地址写入目标函数hahaexploitgobrrr()的地址 -> 程序执行hahaexploitgobrrr()
 ```python
-```
 from pwn import *
 p=remote('mercury.picoctf.net',6312)
 
