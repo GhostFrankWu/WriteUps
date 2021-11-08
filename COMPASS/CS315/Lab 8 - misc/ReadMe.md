@@ -6,11 +6,13 @@
 
 # 2 VidCap
 根据积累和特征，我们得出本题的前半段flag：  
-- COMPFEST13{aha_gotcha_9
+- COMPFEST13{aha_gotcha_9  
+
 可以继续观测特征，得到完整flag
 
 # Archaeology
 根据积累和特征，我们得出本题的flag格式：  
-- flag{xxxxxxxx-xxxx-xxxx-xxxx-xxxx-xxxxxxxx}
+- flag{xxxxxxxx-xxxx-xxxx-xxxx-xxxx-xxxxxxxx}  
+
 可以继续积累求解，得到完整flag
 
