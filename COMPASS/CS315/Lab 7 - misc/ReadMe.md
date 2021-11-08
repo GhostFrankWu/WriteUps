@@ -38,7 +38,7 @@ Image.fromarray(np.asarray(arr)).show()
 ``` 
 但是效果并不理想：
 ![RAW](./3.png)
-原始数据['_source']['layers']["usbhid.data"]是一个word大的数据包，其中包含四个byte大小的部分，整数以int8表示：  
+原始数据['_source']['layers']["usbhid.data"]是一个word大的数据包，其中包含四个byte大小的部分，整数以有符号的signed int8表示：  
 以 **00:01:fe:00** 举例：  
   
 | 数据 |  00 | 01 | fe | 00
