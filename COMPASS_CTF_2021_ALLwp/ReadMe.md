@@ -100,6 +100,8 @@ if ($leve1_3->result == $flag) {
 > user[]=1&pwd[]=2&flag={"result":0}
 
 ### Life Restart
+**大佬的解法：抓包看 event.json **  
+**普通解法如下**  
 看一下文件结构  
 ![life js](img/life1.png)  
 从文件名不难推测  
