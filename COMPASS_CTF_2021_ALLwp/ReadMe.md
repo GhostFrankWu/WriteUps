@@ -1,7 +1,7 @@
 # COMPASS CTF 2021 招新赛
 # 题目内容
-分类 | 名称 | 难度 | 描述 | 文件 | flag
- -- | -- | -- | -- | -- | --
+分类 | 名称 | 难度 | 描述 | 文件 
+ -- | -- | -- | -- | -- 
 MISC | SanityCheck | 签到 | 欢迎来到COMPASS CTF! 光碟、喵咪和ls可以帮你拿到flag。 | sign.html | flag{we1c0m3_tO_C0MP4SS_CTF_2021!GLHF}  
 MISC | ezPWD | 简单 | 你的一位来自陕西西安临潼区的90后学姐发给你一份神秘压缩包，你能打开吗 | flag.zip | flag{Brut3_f0rc3_1s_just_345y}
 Web | Hacked | 签到 | 大黑客黑掉了COMPASS的网站并留下了flag，但是需要正确输入口令才能看到。 | Hacked.html | flag{Ev3ry_0ne_1ove5_baNaNa_exCept_fu*k1n9_js}  
