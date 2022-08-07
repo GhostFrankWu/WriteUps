@@ -4,7 +4,7 @@
 年 | 比赛名称 | 主办方 | 参与形式 | 排名
 --- | --- | --- | --- | ---
 Y-2022 | [A广东省赛](./Y-2022/A%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%B5%9B%23%E5%B9%BF%E4%B8%9C%E7%9C%81%23Team%239/readme.md) | 广东省 | Team | 9
-Y-2022 | [B强网杯](./Y-2022/B%E5%BC%BA%E7%BD%91%E6%9D%AF%23%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%23Team%2374/readme.md) | 中央网信办 | Team | 74
+Y-2022 | [B强网杯](./Y-2022/B%E5%BC%BA%E7%BD%91%E6%9D%AF%23%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%23Team%2355/readme.md) | 中央网信办 | Team | 55
 Y-2022 | [ctfshow 七夕杯](./Y-2022/ctfshow%20%E4%B8%83%E5%A4%95%E6%9D%AF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%235/readme.md) | CTFShow平台 | Solo | 5
 Y-2022 | [ctfshow 卷王杯](./Y-2022/ctfshow%20%E5%8D%B7%E7%8E%8B%E6%9D%AF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%231/readme.md) | CTFShow平台 | Solo | 1
 Y-2022 | [春秋杯春季 传说](./Y-2022/%E6%98%A5%E7%A7%8B%E6%9D%AF%E6%98%A5%E5%AD%A3%20%E4%BC%A0%E8%AF%B4%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2312/readme.pdf) | i春秋平台 | Solo | 12

@@ -1,7 +1,7 @@
 ﻿
 # 强网杯2022-HED-WriteUp
 
-**Rank: 74** *708pts 10Solved*  
+**Rank: 74（最终55）** *708pts 10Solved*  
 该wp为团队wp   
 `HED 是南方科技大学COMPASS实验室的CTF战队`
 
