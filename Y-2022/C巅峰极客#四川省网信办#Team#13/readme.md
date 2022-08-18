@@ -1,5 +1,5 @@
 # 2022巅峰极客网络安全技能挑战赛-HED-WriteUp
-
+**该wp为团队wp**
 **Rank: 13** *2149pts 5+71Solved*  
 `HED 是南方科技大学COMPASS实验室的CTF战队`
 
