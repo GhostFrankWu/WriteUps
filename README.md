@@ -3,6 +3,7 @@
 
 年 | 比赛名称 | 主办方 | 参与形式 | 排名
 --- | --- | --- | --- | ---
+Y-2022 | [0网鼎杯初赛青龙组](./Y-2022/0%E7%BD%91%E9%BC%8E%E6%9D%AF%E5%88%9D%E8%B5%9B%E9%9D%92%E9%BE%99%E7%BB%84%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%23Team%238/readme.md) | 中国公安部 | Team | 8
 Y-2022 | [A广东省赛](./Y-2022/A%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%B5%9B%23%E5%B9%BF%E4%B8%9C%E7%9C%81%23Team%239/readme.md) | 广东省 | Team | 9
 Y-2022 | [B强网杯](./Y-2022/B%E5%BC%BA%E7%BD%91%E6%9D%AF%23%E4%B8%AD%E5%A4%AE%E7%BD%91%E4%BF%A1%E5%8A%9E%23Team%2355/readme.md) | 中央网信办 | Team | 55
 Y-2022 | [C巅峰极客](./Y-2022/C%E5%B7%85%E5%B3%B0%E6%9E%81%E5%AE%A2%23%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%BD%91%E4%BF%A1%E5%8A%9E%23Team%2312/readme.md) | 四川省网信办 | Team | 12
