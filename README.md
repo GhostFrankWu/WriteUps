@@ -9,6 +9,7 @@ Y-2022 | [B强网杯](./Y-2022/B%E5%BC%BA%E7%BD%91%E6%9D%AF%23%E4%B8%AD%E5%A4%AE
 Y-2022 | [C巅峰极客](./Y-2022/C%E5%B7%85%E5%B3%B0%E6%9E%81%E5%AE%A2%23%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%BD%91%E4%BF%A1%E5%8A%9E%23Team%2312/readme.md) | 四川省网信办 | Team | 12
 Y-2022 | [ctfshow 七夕杯](./Y-2022/ctfshow%20%E4%B8%83%E5%A4%95%E6%9D%AF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%235/readme.md) | CTFShow平台 | Solo | 5
 Y-2022 | [ctfshow 卷王杯](./Y-2022/ctfshow%20%E5%8D%B7%E7%8E%8B%E6%9D%AF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%231/readme.md) | CTFShow平台 | Solo | 1
+Y-2022 | [ctfshow 新手杯](./Y-2022/ctfshow%20%E6%96%B0%E6%89%8B%E6%9D%AF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%231/readme.md) | CTFShow平台 | Solo | 1
 Y-2022 | [春秋杯春季 传说](./Y-2022/%E6%98%A5%E7%A7%8B%E6%9D%AF%E6%98%A5%E5%AD%A3%20%E4%BC%A0%E8%AF%B4%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2312/readme.pdf) | i春秋平台 | Solo | 12
 Y-2022 | [虎符CTF](./Y-2022/%E8%99%8E%E7%AC%A6CTF%23%E6%95%B0%E5%AD%97%E4%B8%AD%E5%9B%BD%E5%BB%BA%E8%AE%BE%E5%B3%B0%E4%BC%9A%23Team%2336/readme.md) | 数字中国建设峰会 | Team | 36
 Z-2021 | [COMPASS CTF 2021](./Z-2021/COMPASS%20CTF%202021%23%E5%8D%97%E6%96%B9%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%23Host%23%E5%91%BD%E9%A2%98/ReadMe.md) | 南方科技大学 | Host | 命题
