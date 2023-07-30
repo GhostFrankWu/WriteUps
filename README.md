@@ -3,9 +3,12 @@
 
 年 | 比赛名称 | 主办方 | 参与形式 | 排名
 --- | --- | --- | --- | ---
-W-2023 | [_年CTF](./W-2023/_%E5%B9%B4CTF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%23NA/readme.md) | CTFShow平台 | Solo | NA
-W-2023 | [春秋杯2023](./W-2023/%E6%98%A5%E7%A7%8B%E6%9D%AF2023%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2311/readme.md) | i春秋平台 | Solo | 11
-W-2023 | [春秋杯2023](./W-2023/%E6%98%A5%E7%A7%8B%E6%9D%AF2023%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2311/readme.pdf) | i春秋平台 | Solo | 11
+W-2023 | [1ciscn国赛](./W-2023/1ciscn%E5%9B%BD%E8%B5%9B%23%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E5%9F%BA%E9%87%91%E4%BC%9A%23Team%23%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96/readme.md) | 中国互联网发展基金会 | Team | 总决赛一等奖
+W-2023 | [3✳CTF](./W-2023/3%E2%9C%B3CTF%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
+W-2023 | [5SCTF](./W-2023/5SCTF%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
+W-2023 | [7春秋杯2023](./W-2023/7%E6%98%A5%E7%A7%8B%E6%9D%AF2023%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2311/readme.md) | i春秋平台 | Solo | 11
+W-2023 | [7春秋杯2023](./W-2023/7%E6%98%A5%E7%A7%8B%E6%9D%AF2023%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2311/readme.pdf) | i春秋平台 | Solo | 11
+W-2023 | [8_年CTF](./W-2023/8_%E5%B9%B4CTF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%23NA/readme.md) | CTFShow平台 | Solo | NA
 Y-2022 | [0春秋杯冬季](./Y-2022/0%E6%98%A5%E7%A7%8B%E6%9D%AF%E5%86%AC%E5%AD%A3%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%231/readme.md) | i春秋平台 | Solo | 1
 Y-2022 | [1网鼎杯初赛青龙组](./Y-2022/1%E7%BD%91%E9%BC%8E%E6%9D%AF%E5%88%9D%E8%B5%9B%E9%9D%92%E9%BE%99%E7%BB%84%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%AE%89%E9%83%A8%23Team%238/readme.md) | 中国公安部 | Team | 8
 Y-2022 | [A广东省赛](./Y-2022/A%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%B5%9B%23%E5%B9%BF%E4%B8%9C%E7%9C%81%23Team%239/readme.md) | 广东省 | Team | 9
