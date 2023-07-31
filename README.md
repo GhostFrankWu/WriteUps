@@ -5,7 +5,8 @@
 --- | --- | --- | --- | ---
 W-2023 | [1ciscn国赛](./W-2023/1ciscn%E5%9B%BD%E8%B5%9B%23%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E5%9F%BA%E9%87%91%E4%BC%9A%23Team%23%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96/readme.md) | 中国互联网发展基金会 | Team | 总决赛一等奖
 W-2023 | [3✳CTF](./W-2023/3%E2%9C%B3CTF%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
-W-2023 | [5SCTF](./W-2023/5SCTF%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
+W-2023 | [5D3](./W-2023/5D3%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
+W-2023 | [5SCTF](./W-2023/5SCTF%23XCTF%23Team%234/readme.md) | XCTF | Team | 4
 W-2023 | [7春秋杯2023](./W-2023/7%E6%98%A5%E7%A7%8B%E6%9D%AF2023%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2311/readme.md) | i春秋平台 | Solo | 11
 W-2023 | [7春秋杯2023](./W-2023/7%E6%98%A5%E7%A7%8B%E6%9D%AF2023%23i%E6%98%A5%E7%A7%8B%E5%B9%B3%E5%8F%B0%23Solo%2311/readme.pdf) | i春秋平台 | Solo | 11
 W-2023 | [8_年CTF](./W-2023/8_%E5%B9%B4CTF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%23NA/readme.md) | CTFShow平台 | Solo | NA
