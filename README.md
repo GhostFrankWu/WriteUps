@@ -3,6 +3,7 @@
 
 年 | 比赛名称 | 主办方 | 参与形式 | 排名
 --- | --- | --- | --- | ---
+V-2024 | [1_单身杯CTF](./V-2024/1_%E5%8D%95%E8%BA%AB%E6%9D%AFCTF%23CTFShow%E5%B9%B3%E5%8F%B0%23Solo%231/readme.md) | CTFShow平台 | Solo | 1
 W-2023 | [1ciscn国赛](./W-2023/1ciscn%E5%9B%BD%E8%B5%9B%23%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E5%9F%BA%E9%87%91%E4%BC%9A%23Team%23%E6%80%BB%E5%86%B3%E8%B5%9B%E4%B8%80%E7%AD%89%E5%A5%96/readme.md) | 中国互联网发展基金会 | Team | 总决赛一等奖
 W-2023 | [3✳CTF](./W-2023/3%E2%9C%B3CTF%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
 W-2023 | [5D3](./W-2023/5D3%23XCTF%23Team%23%E4%BA%9A%E5%86%9B/readme.md) | XCTF | Team | 亚军
