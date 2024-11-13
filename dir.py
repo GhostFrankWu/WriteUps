@@ -1,7 +1,10 @@
 import os
 from urllib.parse import quote
 
-res = '''# WriteUps
+res = '''# WriteUps  
+也欢迎来S1uM4i的博客看看鸭！！ 
+https://blog.s1um4i.com/  
+
 `记录比赛和成长过程，不一定是精选，会有很菜的内容`
 
 年 | 比赛名称 | 主办方 | 参与形式 | 排名
